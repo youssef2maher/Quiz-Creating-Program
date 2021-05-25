@@ -4,8 +4,6 @@
 
 /* youssefmaher.yh@gmail.com */
 
-/* Youssef Bahgat Fekry 20180339*/
-
 
 
 #include <iostream>
