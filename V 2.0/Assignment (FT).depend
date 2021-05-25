@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1571596983 source:f:\c++\assignment (ft)\main.cpp
+	<iostream>
+
+1574695117 source:c:\users\mohamed\desktop\assignment (c)\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1574848976 source:f:\assignment (c)1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1575050275 source:d:\code blocks\projects\assignment (c)1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1575044952 source:c:\users\mohamed\desktop\assignment (c)1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1575103236 source:c:\users\mohamed\desktop\assignment (c)1\assignment (c)1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1575216051 source:f:\fcai-cu_second_year\opject_oriented_programing\assignment 2\assignment 2 (last edition)\assignment (c)1-1\assignment (c)1\assignment (c)1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
